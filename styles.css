@@ -1,0 +1,11 @@
+.block_moossenger .content {text-align:left;padding-top:5px;}
+.block_moossenger .content .list li.listentry {clear:both;}
+.block_moossenger .content .list li.listentry .user {float:left;position:relative;}
+.block_moossenger .content .list li.listentry .message {float:left;}
+.block_moossenger .content .info {text-align:center;}
+.block_moossenger .content .footer {clear:both;}
+
+.block_moossenger .message .messagearea{width: 100%;min-height: 1px;padding-left:0;border-left:0;}
+
+.dir-rtl .block_moossenger .content .list li.listentry .user {float:right;}
+.dir-rtl .block_moossenger .content .list li.listentry .message {float:right;}
